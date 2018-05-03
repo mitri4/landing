@@ -1,0 +1,28 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitri4/landing.git"
+  },
+  "author": "DC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitri4/landing/issues"
+  },
+  "homepage": "https://github.com/mitri4/landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.2",
+    "gulp": "^4.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2"
+  }
+}
